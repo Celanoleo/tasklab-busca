@@ -2,8 +2,6 @@
 
 Controle de tarefas feito em **Vue 3** (Composition API) durante a pós em Desenvolvimento Web com Frameworks Modernos (UTFPR).
 
-![Demonstração](demo.gif)
-
 ## Funcionalidades
 - Cadastro de tarefas com validação de título vazio
 - Concluir, reabrir e remover tarefas
